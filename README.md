@@ -38,6 +38,10 @@ I am currently a 3rd-year undergrad student, pursuing Computer Science and Engin
 
 ---
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyajain26" alt="Github Streak Stats">
+
+---
+
 ### Github Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyajain26&count_private=true&title_color=48C9B0&icon_color=FD9047&text_color=0C2233&custom_title=Sanya+Jain's+GitHub+Stats"/>
